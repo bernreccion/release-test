@@ -1,3 +1,9 @@
+## [1.1.7](https://github.com/bernreccion/release-test/compare/v1.1.6...v1.1.7) (2024-06-08)
+
+### Build System
+
+* update release config ([e8b4d53](https://github.com/bernreccion/release-test/commit/e8b4d5316901e389d1b2b8cfe2ffadac077353ac))
+
 ## [1.1.6](https://github.com/bernreccion/release-test/compare/v1.1.5...v1.1.6) (2024-06-08)
 
 ## [1.1.5](https://github.com/bernreccion/release-test/compare/v1.1.4...v1.1.5) (2024-06-08)
