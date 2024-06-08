@@ -4,7 +4,7 @@ const config = {
         [
             '@semantic-release/commit-analyzer',
             {
-                preset: 'conventionalcommits',
+                preset: 'angular',
                 releaseRules: [
                     { type: "feat", release: "minor" },
                     { type: "fix", release: "patch" },
@@ -27,7 +27,7 @@ const config = {
         [
             "@semantic-release/release-notes-generator",
             {
-                preset: "conventionalcommits"
+                preset: "angular"
             }
         ],
         [
