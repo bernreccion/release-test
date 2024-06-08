@@ -9,3 +9,5 @@ console.log(text);
 'hellooooo!';
 
 'this is a feat'
+
+'this is a breaking feat';
