@@ -1,3 +1,9 @@
+## [5.0.1](https://github.com/bernreccion/release-test/compare/v5.0.0...v5.0.1) (2024-06-08)
+
+### 🛠️ Patches 🛠️
+
+* test again ([0346f4e](https://github.com/bernreccion/release-test/commit/0346f4e44f216f85948eed47eb28ff921f75b425))
+
 ## [5.0.0](https://github.com/bernreccion/release-test/compare/v4.0.0...v5.0.0) (2024-06-08)
 
 ### BREAKING CHANGES
