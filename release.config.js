@@ -45,7 +45,32 @@ const config = {
                 writerOpts: {
                     groupBy: "type",
                     commitGroupsSort: "title",
-                    commitsSort: ["type", "scope"]
+                    commitsSort: ["type", "scope"],
+                    mainTemplate: `{{> header}}
+                                    {{#if noteGroups}}
+                                    {{#each noteGroups}}
+
+                                    ### ⚠️ {{title}} ⚠️
+
+                                    {{#each notes}}
+                                    * {{#if commit.scope}}**{{commit.scope}}:** {{/if}}{{text}}
+                                    {{/each}}
+                                    {{/each}}
+                                    {{/if}}
+                                    {{#each commitGroups}}
+
+                                    {{#if title}}
+                                        {{#if (eq title "Features")}}
+                                            ### 💡 {{title}} 💡
+                                        {{/if}}
+                                        {{#if (eq title "Features")}}
+                                            ### 🛠️ {{title}} 🛠️
+                                        {{/if}}    
+                                    {{/if}}
+                                    {{#each commits}}
+                                    {{> commit root=@root}}
+                                    {{/each}}
+                                    {{/each}}`
                 }
             }
         ],
