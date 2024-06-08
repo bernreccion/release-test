@@ -1,3 +1,15 @@
+## [5.0.0](https://github.com/bernreccion/release-test/compare/v4.0.0...v5.0.0) (2024-06-08)
+
+### BREAKING CHANGES
+
+    * no icon
+    * remove icon for breaking
+
+### ✨ Features ✨
+
+        * no icon ([cdd548e](https://github.com/bernreccion/release-test/commit/cdd548e2f12e30b9fb1a1f51c2e5c632561704ab))
+        * remove icon for breaking ([1c5524f](https://github.com/bernreccion/release-test/commit/1c5524f3ea8ff451efb196ac11b2065d4c5ef738))
+
 ## [4.0.0](https://github.com/bernreccion/release-test/compare/v3.2.5...v4.0.0) (2024-06-08)
 
 ### ⚠ BREAKING CHANGES
