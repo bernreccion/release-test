@@ -1,5 +1,13 @@
 const fs = require('fs')
-const Handlebars = require('./helper')
+const Handlebars = require('handlebars');
+
+// Register Handlebars helpers globally
+Handlebars.registerHelper('eq', function(v1, v2, options) {
+  if (v1 === v2) {
+    return options.fn(this);
+  }
+  return options.inverse(this);
+});
 
 const config = {
     branches: ['main'],
@@ -49,8 +57,7 @@ const config = {
                     groupBy: "type",
                     commitGroupsSort: "title",
                     commitsSort: ["type", "scope"],
-                    mainTemplate: fs.readFileSync('./mainTemplate.hbs', 'utf-8'),
-                    helpers: Handlebars.helpers
+                    mainTemplate: fs.readFileSync('./mainTemplate.hbs', 'utf-8')
                 }
             }
         ],
