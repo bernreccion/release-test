@@ -30,16 +30,16 @@ const config = {
                 preset: "conventionalcommits",
                 presetConfig: {
                     types: [
-                        { type: 'build', section: 'Build System', hidden: false },
-                        { type: 'chore', section: 'Build System', hidden: false },
-                        { type: 'ci', section: 'Continuous Integration', hidden: false },
-                        { type: 'docs', section: 'Documentation', hidden: false },
+                        { type: 'build', section: 'Patches', hidden: false },
+                        { type: 'chore', section: 'Patches', hidden: false },
+                        { type: 'ci', section: 'Patches', hidden: false },
+                        { type: 'docs', section: 'Patches', hidden: false },
                         { type: 'feat', section: 'Features', hidden: false },
-                        { type: 'fix', section: 'Bug Fixes', hidden: false },
-                        { type: 'perf', section: 'Performance Improvements', hidden: false },
-                        { type: 'refactor', section: 'Code Refactoring', hidden: false },
-                        { type: 'style', section: 'Styles', hidden: false },
-                        { type: 'test', section: 'Tests', hidden: false },
+                        { type: 'fix', section: 'Patches', hidden: false },
+                        { type: 'perf', section: 'Patches', hidden: false },
+                        { type: 'refactor', section: 'Patches', hidden: false },
+                        { type: 'style', section: 'Patches', hidden: false },
+                        { type: 'test', section: 'Patches', hidden: false },
                     ],
                 },
                 writerOpts: {
@@ -60,6 +60,7 @@ const config = {
                 message: 'chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}'
             }
         ],
+        '@semantic-release/npm',
         '@semantic-release/github'
     ]
 }
