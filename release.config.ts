@@ -1,20 +1,15 @@
 const fs = require('fs')
-const Handlebars = require('handlebars')
+import Handlebars from 'handlebars'
+import { GlobalConfig } from "semantic-release"
 
-// Handlebars.registerHelper('eq', function (a, b, options) {
-//     if (a == b) { return options.fn(this); }
-//     return options.inverse(this);
-// });
-
-Handlebars.registerHelper('eq', function(undefined, a, b, undefined, undefined, undefined, options) {
-    if(a == b) { return options.fn(this); }
-    return options.inverse(this)
+Handlebars.registerHelper('eq', function (a: any, b: any, options: Handlebars.HelperOptions) {
+    return (a == b) ? options.fn(this) : options.inverse(this);
 });
 
-module.exports = Handlebars;
-
-const config = {
+export const config: GlobalConfig = {
     branches: ['main'],
+    repositoryUrl: 'https://github.com/bernreccion/release-test.git',
+    tagFormat: 'v',
     plugins: [
         [
             '@semantic-release/commit-analyzer',
@@ -84,5 +79,3 @@ const config = {
         '@semantic-release/github'
     ]
 }
-
-module.exports = config;

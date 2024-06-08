@@ -3,6 +3,9 @@
   "version": "3.0.5",
   "description": "release test for semantic release",
   "main": "index.js",
+  "repository": {
+    "url": "https://github.com/bernreccion/release-test.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
