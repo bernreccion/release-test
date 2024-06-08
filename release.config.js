@@ -57,7 +57,6 @@ const config = {
         [
             '@semantic-release/npm', {
                 npmPublish: false,
-                tarballDir: "dist"
             }
         ],
         [
