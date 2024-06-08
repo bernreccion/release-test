@@ -1,11 +1,5 @@
 const fs = require('fs')
-const Handlebars = require('handlebars')
-
-Handlebars.registerHelper('eq', function (a, b, options) {
-    if (a == b) { return options.fn(this); }
-    return options.inverse(this);
-});
-
+const Handlebars = require('./helper.ts')
 
 module.exports = Handlebars;
 
