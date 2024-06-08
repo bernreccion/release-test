@@ -1,3 +1,5 @@
+const fs = require('fs')
+
 const config = {
     branches: ['main'],
     plugins: [
@@ -46,7 +48,7 @@ const config = {
                     groupBy: "type",
                     commitGroupsSort: "title",
                     commitsSort: ["type", "scope"],
-                    mainTemplate: './mainTemplate.hbs'
+                    mainTemplate: fs.readFileSync('./mainTemplate.hbs', 'utf-8')
                 }
             }
         ],

@@ -12,12 +12,12 @@
 {{#each commitGroups}}
 
 {{#if title}}
-    {{#if (eq title "Features")}}
-        ### 💡 {{title}} 💡
-    {{/if}}
-    {{#if (eq title "Patches")}}
-        ### 🛠️ {{title}} 🛠️
-    {{/if}}    
+{{#if (eq title "Features")}}
+### 💡 {{title}} 💡
+{{else if (eq title "Patches")}}
+### 🛠️ {{title}} 🛠️
+{{/if}}
+### {{title}}
 {{/if}}
 {{#each commits}}
 {{> commit root=@root}}
