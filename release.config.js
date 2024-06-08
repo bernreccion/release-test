@@ -1,4 +1,4 @@
-export const config = {
+const config = {
     branches: ['main'],
     plugins: [
         [
@@ -68,3 +68,5 @@ export const config = {
         '@semantic-release/github'
     ]
 }
+
+module.exports = config
