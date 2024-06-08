@@ -1,4 +1,10 @@
-const fs = require('fs')
+const fs = require('fs');
+
+const Handlebars = require('handlebars')
+
+Handlebars.registerHelper('eq', (a, b) => a == b)
+
+module.exports = Handlebars;
 
 const config = {
     branches: ['main'],
