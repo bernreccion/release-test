@@ -1,3 +1,9 @@
+## BREAKING CHANGES
+
+## FEATURES
+
+## PATCHES
+
 ## [1.1.3](https://github.com/bernreccion/release-test/compare/v1.1.2...v1.1.3) (2024-06-08)
 
 ## [1.1.2](https://github.com/bernreccion/release-test/compare/v1.1.1...v1.1.2) (2024-06-08)
