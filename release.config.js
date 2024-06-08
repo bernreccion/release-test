@@ -1,13 +1,5 @@
 const fs = require('fs')
-const Handlebars = require('handlebars');
-
-// Register Handlebars helpers globally
-Handlebars.registerHelper('eq', function(v1, v2, options) {
-  if (v1 === v2) {
-    return options.fn(this);
-  }
-  return options.inverse(this);
-});
+const Handlebars = require('./helper');
 
 const config = {
     branches: ['main'],
