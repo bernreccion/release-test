@@ -1,5 +1,5 @@
 const fs = require('fs')
-import Handlebars from 'handlebars'
+const Handlebars = require('handlebars')
 
 Handlebars.registerHelper('eq', (a, b) => a == b)
 
