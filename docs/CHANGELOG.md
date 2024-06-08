@@ -1,3 +1,14 @@
+## [5.1.0](https://github.com/bernreccion/release-test/compare/v5.0.1...v5.1.0) (2024-06-08)
+
+### ✨ Features ✨
+
+* new feature ([652b6f3](https://github.com/bernreccion/release-test/commit/652b6f3c941f2db782c81f565180754d5af1313b))
+
+### 🛠️ Patches 🛠️
+
+* this is a comment ([fcbc751](https://github.com/bernreccion/release-test/commit/fcbc751529a3d2ea2a8458f988b0d20aa94ce0d9))
+* add white space ([7e7f41f](https://github.com/bernreccion/release-test/commit/7e7f41f5e7be4b8bfe980626bb17267360ebc497))
+
 ## [5.0.1](https://github.com/bernreccion/release-test/compare/v5.0.0...v5.0.1) (2024-06-08)
 
 ### 🛠️ Patches 🛠️
