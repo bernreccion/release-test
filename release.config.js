@@ -1,3 +1,4 @@
+const fs = require('fs')
 const Handlebars = require('handlebars')
 
 Handlebars.registerHelper('eq', function (a, b, options) {
@@ -56,7 +57,7 @@ const config = {
                     groupBy: "type",
                     commitGroupsSort: "title",
                     commitsSort: ["type", "scope"],
-                    mainTemplate: './mainTemplate.hbs'
+                    mainTemplate: fs.readFile('./mainTemplate.hbs', 'utf8')
                 }
             }
         ],
