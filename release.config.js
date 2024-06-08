@@ -1,5 +1,4 @@
 const fs = require('fs')
-const Handlebars = require('./helper');
 
 const config = {
     branches: ['main'],
