@@ -1,3 +1,19 @@
+## [2.0.3](https://github.com/bernreccion/release-test/compare/v2.0.2...v2.0.3) (2024-06-08)
+
+    ### 🛠️ Patches 🛠️
+
+* update ([6658c6f](https://github.com/bernreccion/release-test/commit/6658c6f2cb4eb4a158732fed5b030dcca2eb722f))
+* reteeest ([8ac90bd](https://github.com/bernreccion/release-test/commit/8ac90bd939915a9dfb13f4f0445eaaee3be48dd8))
+* please work ([f5e8e46](https://github.com/bernreccion/release-test/commit/f5e8e469f66ac4779e5c46e668c89ddd08198fd2))
+* try again ([0315256](https://github.com/bernreccion/release-test/commit/03152565ecfa502306ebd798419b21dab3f3b616))
+* try again ([94f04c3](https://github.com/bernreccion/release-test/commit/94f04c38d678c4294a9bf5ddcf4b8b982038fc7e))
+* test ([240c7f0](https://github.com/bernreccion/release-test/commit/240c7f0da14d61d1d489d919741ffc9cba61fa7d))
+* remove unused import ([027a83e](https://github.com/bernreccion/release-test/commit/027a83e00c8e805a72a67d129d37ffeb3b522683))
+* update once again ([bf88b84](https://github.com/bernreccion/release-test/commit/bf88b84bb5ff6892dbfa2ac0c4e99243c4729a0d))
+* update again ([15a75bd](https://github.com/bernreccion/release-test/commit/15a75bd896e357f2108b99aec864a085127c066c))
+* add handlebars helper ([41da61b](https://github.com/bernreccion/release-test/commit/41da61b76aa876ce377575967e1950e60c22d861))
+* add fs to read mainTemplate.hbs ([28e0bf7](https://github.com/bernreccion/release-test/commit/28e0bf7b9488bf0a28f5d034f5e2c42b385e2317))
+
 ./mainTemplate.hbs
 
 ./mainTemplate.hbs
