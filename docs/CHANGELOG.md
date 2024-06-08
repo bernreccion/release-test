@@ -1,3 +1,5 @@
+./mainTemplate.hbs
+
 ## [3.0.4](https://github.com/bernreccion/release-test/compare/v3.0.3...v3.0.4) (2024-06-08)
 
 ### Patches
