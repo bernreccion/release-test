@@ -1,3 +1,13 @@
+## [4.0.0](https://github.com/bernreccion/release-test/compare/v3.2.5...v4.0.0) (2024-06-08)
+
+### ⚠ BREAKING CHANGES
+
+* remove icon for breaking
+
+### Features
+
+* remove icon for breaking ([3cfb840](https://github.com/bernreccion/release-test/commit/3cfb84081bc377faba24697a618b69afa18cc059))
+
 ## [3.2.5](https://github.com/bernreccion/release-test/compare/v3.2.4...v3.2.5) (2024-06-08)
 
 ### Patches
