@@ -1,3 +1,9 @@
+## [3.2.1](https://github.com/bernreccion/release-test/compare/v3.2.0...v3.2.1) (2024-06-08)
+
+### Patches
+
+* test icooon ([66a508c](https://github.com/bernreccion/release-test/commit/66a508cefaca5996aaf26fcf2deffbb056d9a9f5))
+
 ## [3.2.0](https://github.com/bernreccion/release-test/compare/v3.1.1...v3.2.0) (2024-06-08)
 
 ### Features

@@ -1,6 +1,6 @@
 {
   "name": "release-test",
-  "version": "3.2.0",
+  "version": "3.2.1",
   "description": "release test for semantic release",
   "main": "index.js",
   "scripts": {
