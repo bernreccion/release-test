@@ -23,7 +23,7 @@ jobs:
       - name: Setup node environment
         uses: actions/setup-node@v3
         with:
-          node-version: 19.6.0
+          node-version: 20.12.2
           cache: 'npm'
 
       - name: Install node modules
