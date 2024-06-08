@@ -1,5 +1,7 @@
 ./mainTemplate.hbs
 
+./mainTemplate.hbs
+
 ## [2.0.0](https://github.com/bernreccion/release-test/compare/v1.2.0...v2.0.0) (2024-06-08)
 
 ### ⚠ BREAKING CHANGES
