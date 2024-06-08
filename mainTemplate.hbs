@@ -1,24 +1,24 @@
 {{> header}}
 {{#if noteGroups}}
-    {{#each noteGroups}}
+{{#each noteGroups}}
 
-### {{title}}
+### ⚠️ {{title}} ⚠️
 
-    {{#each notes}}
-    * {{#if commit.scope}}**{{commit.scope}}:** {{/if}}{{text}}
-    {{/each}}
-    {{/each}}
+{{#each notes}}
+* {{#if commit.scope}}**{{commit.scope}}:** {{/if}}{{text}}
+{{/each}}
+{{/each}}
 {{/if}}
 {{#each commitGroups}}
 
-    {{#if (eq title "Features")}}
+{{#if (eq title "Features")}}
 ### ✨ {{title}} ✨
-    {{/if}}
-    {{#if (eq title "Patches")}}
+{{/if}}
+{{#if (eq title "Patches")}}
 ### 🛠️ {{title}} 🛠️
-    {{/if}}
+{{/if}}
 
-    {{#each commits}}
-        {{> commit root=@root}}
-    {{/each}}
+{{#each commits}}
+{{> commit root=@root}}
+{{/each}}
 {{/each}}
