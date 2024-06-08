@@ -1,3 +1,5 @@
+## [1.1.5](https://github.com/bernreccion/release-test/compare/v1.1.4...v1.1.5) (2024-06-08)
+
 ## BREAKING CHANGES
 
 ## FEATURES
