@@ -1,3 +1,13 @@
+## [3.0.0](https://github.com/bernreccion/release-test/compare/v2.0.3...v3.0.0) (2024-06-08)
+
+### ⚠️ BREAKING CHANGES ⚠️
+
+* test
+
+        ### 💡 Features 💡
+
+* test ([ade2bec](https://github.com/bernreccion/release-test/commit/ade2bec9108db13f05dc6109abc92d7991264fbc))
+
 ## [2.0.3](https://github.com/bernreccion/release-test/compare/v2.0.2...v2.0.3) (2024-06-08)
 
     ### 🛠️ Patches 🛠️
