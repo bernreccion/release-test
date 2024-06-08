@@ -1,3 +1,9 @@
+## [3.2.5](https://github.com/bernreccion/release-test/compare/v3.2.4...v3.2.5) (2024-06-08)
+
+### Patches
+
+* commit test ([75fd72d](https://github.com/bernreccion/release-test/commit/75fd72de5b8e885dbdbb44b54abc903a415267e4))
+
 ## [3.2.4](https://github.com/bernreccion/release-test/compare/v3.2.3...v3.2.4) (2024-06-08)
 
 ### Patches
