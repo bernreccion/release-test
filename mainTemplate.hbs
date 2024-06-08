@@ -11,11 +11,13 @@
 {{/if}}
 {{#each commitGroups}}
 
-{{#if (eq title "Features")}}
-    ### 💡 {{title}} 💡
-{{/if}}
-{{#if (eq title "Patches")}}
-    ### 🛠️ {{title}} 🛠️
+{{#if title}}
+    {{#if (eq title "Features")}}
+        ### 💡 {{title}} 💡
+    {{/if}}
+    {{#if (eq title "Patches")}}
+        ### 🛠️ {{title}} 🛠️
+    {{/if}}
 {{/if}}
 
 {{#each commits}}
