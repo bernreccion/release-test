@@ -1,3 +1,9 @@
+## [3.1.1](https://github.com/bernreccion/release-test/compare/v3.1.0...v3.1.1) (2024-06-08)
+
+### Patches
+
+* revert to old version to keep ([422e6bc](https://github.com/bernreccion/release-test/commit/422e6bce7b82c32fe340a4b7a7174d90823c04bb))
+
 ## [3.1.0](https://github.com/bernreccion/release-test/compare/v3.0.6...v3.1.0) (2024-06-08)
 
 ### Features
