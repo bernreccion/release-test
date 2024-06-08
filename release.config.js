@@ -1,15 +1,5 @@
-import fs from 'fs'
-import Handlebars from 'handlebars'
-import { GlobalConfig } from "semantic-release"
-
-Handlebars.registerHelper('eq', function (a: any, b: any, options: Handlebars.HelperOptions) {
-    return (a == b) ? options.fn(this) : options.inverse(this);
-});
-
-export const config: GlobalConfig = {
+export const config = {
     branches: ['main'],
-    repositoryUrl: 'https://github.com/bernreccion/release-test.git',
-    tagFormat: 'v',
     plugins: [
         [
             '@semantic-release/commit-analyzer',
@@ -56,7 +46,6 @@ export const config: GlobalConfig = {
                     groupBy: "type",
                     commitGroupsSort: "title",
                     commitsSort: ["type", "scope"],
-                    mainTemplate: fs.readFileSync('./mainTemplate.hbs', 'utf8')
                 }
             }
         ],
