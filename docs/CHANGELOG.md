@@ -1,3 +1,9 @@
+## [3.2.4](https://github.com/bernreccion/release-test/compare/v3.2.3...v3.2.4) (2024-06-08)
+
+### Patches
+
+* test hammer wrench icon ([28f7b95](https://github.com/bernreccion/release-test/commit/28f7b959662d10ee57ef8cce0d1fa098dc3e0961))
+
 ## [3.2.3](https://github.com/bernreccion/release-test/compare/v3.2.2...v3.2.3) (2024-06-08)
 
 ### Patches
