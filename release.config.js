@@ -1,5 +1,5 @@
 const fs = require('fs')
-const Handlebars = require('./helper.ts')
+const Handlebars = require('./helper.js')
 
 module.exports = Handlebars;
 
