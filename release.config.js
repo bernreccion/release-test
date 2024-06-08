@@ -1,8 +1,14 @@
 const fs = require('fs')
 const Handlebars = require('handlebars')
 
-Handlebars.registerHelper('eq', function (a, b, options) {
-    if (a == b) { return options.fn(this); }
+// Handlebars.registerHelper('eq', function (a, b, options) {
+//     if (a == b) { return options.fn(this); }
+//     return options.inverse(this);
+// });
+
+Handlebars.registerHelper('eq', function(undefined, a, b, undefined, undefined, undefined, options) {
+    if(a == b) { return options.fn(this); }
+    return options.inverse(this)
 });
 
 module.exports = Handlebars;
