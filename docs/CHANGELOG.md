@@ -1,3 +1,9 @@
+## [3.2.0](https://github.com/bernreccion/release-test/compare/v3.1.1...v3.2.0) (2024-06-08)
+
+### Features
+
+* test icon ([94728f4](https://github.com/bernreccion/release-test/commit/94728f4b8f405a659cf61cb46f644089f57d1579))
+
 ## [3.1.1](https://github.com/bernreccion/release-test/compare/v3.1.0...v3.1.1) (2024-06-08)
 
 ### Patches
