@@ -1,3 +1,9 @@
+## [3.0.3](https://github.com/bernreccion/release-test/compare/v3.0.2...v3.0.3) (2024-06-08)
+
+    ### Patches
+
+* add title ([bcae018](https://github.com/bernreccion/release-test/commit/bcae018aa3325f9fa4e243440088d781e34c0ce9))
+
 ## [3.0.2](https://github.com/bernreccion/release-test/compare/v3.0.1...v3.0.2) (2024-06-08)
 
 
