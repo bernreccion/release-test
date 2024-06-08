@@ -6,6 +6,6 @@ console.log(text);
 
 'hello!'
 
-'hellooooo!'
+'hellooooo!';
 
 'this is a feat'
