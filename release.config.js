@@ -31,8 +31,7 @@ const config = {
                 writerOpts: {
                     groupBy: "type",
                     commitGroupsSort: "title",
-                    commitsSort: ["type", "scope"],
-                    commitPartial: "- {{header}}{{#if notes}}\n  {{notes}}{{/if}}{{body}}\n",
+                    commitsSort: ["type", "scope"]
                 }
             }
         ],
