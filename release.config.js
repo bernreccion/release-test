@@ -1,5 +1,9 @@
 const fs = require('fs')
-const Handlebars = require('./helper.js')
+const Handlebars = require('handlebars')
+
+Handlebars.registerHelper('eq', function (a, b, options) {
+    if (a == b) { return options.fn(this); }
+});
 
 module.exports = Handlebars;
 
