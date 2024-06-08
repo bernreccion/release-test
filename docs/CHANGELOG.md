@@ -1,3 +1,17 @@
+## [2.0.0](https://github.com/bernreccion/release-test/compare/v1.2.0...v2.0.0) (2024-06-08)
+
+### ⚠ BREAKING CHANGES
+
+* create a new feature
+
+### Features
+
+* create a new feature ([6308be9](https://github.com/bernreccion/release-test/commit/6308be9207cabbc7eef84ba2b950008bc4606633))
+
+### Patches
+
+* remove config in npm ([50168a8](https://github.com/bernreccion/release-test/commit/50168a8d5871b96b1feb3e6cbaf1d586016be519))
+
 ## [1.2.0](https://github.com/bernreccion/release-test/compare/v1.1.7...v1.2.0) (2024-06-08)
 
 ### Features
