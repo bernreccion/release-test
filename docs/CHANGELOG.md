@@ -1,3 +1,9 @@
+## [3.0.4](https://github.com/bernreccion/release-test/compare/v3.0.3...v3.0.4) (2024-06-08)
+
+### Patches
+
+* remove mainTemplate ([8e9892d](https://github.com/bernreccion/release-test/commit/8e9892d5871029f426b4107488e72806a737c102))
+
 ## [3.0.3](https://github.com/bernreccion/release-test/compare/v3.0.2...v3.0.3) (2024-06-08)
 
     ### Patches
