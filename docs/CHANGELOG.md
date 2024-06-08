@@ -1,3 +1,14 @@
+## [3.1.0](https://github.com/bernreccion/release-test/compare/v3.0.6...v3.1.0) (2024-06-08)
+
+### Features
+
+* test feature ([9b300f8](https://github.com/bernreccion/release-test/commit/9b300f8802ec1f0149d9ebc735b32cef194efd8c))
+
+### Patches
+
+* example fix ([a1c601d](https://github.com/bernreccion/release-test/commit/a1c601d677e2fd391e443b0f1d066df2f1582abd))
+* add white space ([96053a5](https://github.com/bernreccion/release-test/commit/96053a535fee82c5d7b1ec0b61ae6a91dc7ebc3d))
+
 ## [3.0.6](https://github.com/bernreccion/release-test/compare/v3.0.5...v3.0.6) (2024-06-08)
 
 ### Patches
