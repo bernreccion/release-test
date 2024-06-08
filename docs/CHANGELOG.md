@@ -1,3 +1,16 @@
+## [1.2.0](https://github.com/bernreccion/release-test/compare/v1.1.7...v1.2.0) (2024-06-08)
+
+### Features
+
+* add feature comment ([f9d4ec6](https://github.com/bernreccion/release-test/commit/f9d4ec61b3d57f0e5f1f044d8bfdad1b794c1efb))
+
+### Patches
+
+* update release ([dfb76b1](https://github.com/bernreccion/release-test/commit/dfb76b165bbc1a993eb36faf3a3ea8cc4a694d83))
+* add semi-colon on line 9 ([b2f69be](https://github.com/bernreccion/release-test/commit/b2f69bebf41e758a043acfc3950ba853198d5404))
+* update code in test.js ([0733aeb](https://github.com/bernreccion/release-test/commit/0733aeb9030cca110c80d93c0c501b0aaf867ffe))
+* update config release ([b41462d](https://github.com/bernreccion/release-test/commit/b41462d33a0706e8bf187c93750fb6f86a8854be))
+
 ## [1.1.7](https://github.com/bernreccion/release-test/compare/v1.1.6...v1.1.7) (2024-06-08)
 
 ### Build System
