@@ -1,10 +1,3 @@
-const fs = require('fs')
-const Handlebars = require('handlebars')
-
-Handlebars.registerHelper('eq', (a, b) => a == b)
-
-module.exports = Handlebars;
-
 const config = {
     branches: ['main'],
     plugins: [
@@ -53,7 +46,6 @@ const config = {
                     groupBy: "type",
                     commitGroupsSort: "title",
                     commitsSort: ["type", "scope"],
-                    mainTemplate: fs.readFileSync('./mainTemplate.hbs', 'utf-8')
                 }
             }
         ],
@@ -77,4 +69,4 @@ const config = {
     ]
 }
 
-module.exports = config;
+module.exports = config

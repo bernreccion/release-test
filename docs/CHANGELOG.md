@@ -1,3 +1,67 @@
+## [3.1.0](https://github.com/bernreccion/release-test/compare/v3.0.6...v3.1.0) (2024-06-08)
+
+### Features
+
+* test feature ([9b300f8](https://github.com/bernreccion/release-test/commit/9b300f8802ec1f0149d9ebc735b32cef194efd8c))
+
+### Patches
+
+* example fix ([a1c601d](https://github.com/bernreccion/release-test/commit/a1c601d677e2fd391e443b0f1d066df2f1582abd))
+* add white space ([96053a5](https://github.com/bernreccion/release-test/commit/96053a535fee82c5d7b1ec0b61ae6a91dc7ebc3d))
+
+## [3.0.6](https://github.com/bernreccion/release-test/compare/v3.0.5...v3.0.6) (2024-06-08)
+
+### Patches
+
+* fix export ([d22db1d](https://github.com/bernreccion/release-test/commit/d22db1dbf80b039510b845f5a62c62d7510d1223))
+* update ([2173629](https://github.com/bernreccion/release-test/commit/21736295a74586e65978debe693d3728302d2001))
+* install ts ([5965eb4](https://github.com/bernreccion/release-test/commit/5965eb407dd852b98b99bd8bde98c9db8fd228ce))
+* remove require ([4823282](https://github.com/bernreccion/release-test/commit/4823282bffcff825818396162d341da83f65a060))
+* test ([ffd16bd](https://github.com/bernreccion/release-test/commit/ffd16bdae971906aefdd8c8c28c0a3917d3b24bb))
+* test ([94c3ba9](https://github.com/bernreccion/release-test/commit/94c3ba932755765eb71bc9339ca7e91f54d32c54))
+* will this work ([5bf7186](https://github.com/bernreccion/release-test/commit/5bf7186622a7563e6443a37aa090a90102113645))
+* try again ([83f3ea2](https://github.com/bernreccion/release-test/commit/83f3ea2d0c2b838af28c919d6bb4c013c31322cb))
+* try once again ([9f233ab](https://github.com/bernreccion/release-test/commit/9f233ab4f1c7abd8b9fd4baa4194eae0b300b664))
+* fix structure template ([9396816](https://github.com/bernreccion/release-test/commit/9396816da28e6427acc6331240df75407fdcbe2c))
+* change to readfilesync ([b42f32d](https://github.com/bernreccion/release-test/commit/b42f32d4f30a87d300c1370255983630ce34e9f0))
+* change to utf-8 ([5b52c72](https://github.com/bernreccion/release-test/commit/5b52c7294eb653a3cbcead551dfafba8f10d2448))
+* bring back fs ([7cdcc3c](https://github.com/bernreccion/release-test/commit/7cdcc3c42b27caed5fca6ae58f689d95fed55cc8))
+
+./mainTemplate.hbs
+
+## [3.0.4](https://github.com/bernreccion/release-test/compare/v3.0.3...v3.0.4) (2024-06-08)
+
+### Patches
+
+* remove mainTemplate ([8e9892d](https://github.com/bernreccion/release-test/commit/8e9892d5871029f426b4107488e72806a737c102))
+
+## [3.0.3](https://github.com/bernreccion/release-test/compare/v3.0.2...v3.0.3) (2024-06-08)
+
+    ### Patches
+
+* add title ([bcae018](https://github.com/bernreccion/release-test/commit/bcae018aa3325f9fa4e243440088d781e34c0ce9))
+
+## [3.0.2](https://github.com/bernreccion/release-test/compare/v3.0.1...v3.0.2) (2024-06-08)
+
+
+* comment ([a4c1506](https://github.com/bernreccion/release-test/commit/a4c15062a849ddc7e749a08c4315307eb5af67bb))
+
+## [3.0.1](https://github.com/bernreccion/release-test/compare/v3.0.0...v3.0.1) (2024-06-08)
+
+        ### Patches 
+
+* test ([9ef1993](https://github.com/bernreccion/release-test/commit/9ef19933981af3289b650c298c3d7ae15dd87189))
+
+## [3.0.0](https://github.com/bernreccion/release-test/compare/v2.0.3...v3.0.0) (2024-06-08)
+
+### ⚠️ BREAKING CHANGES ⚠️
+
+* test
+
+        ### 💡 Features 💡
+
+* test ([ade2bec](https://github.com/bernreccion/release-test/commit/ade2bec9108db13f05dc6109abc92d7991264fbc))
+
 ## [2.0.3](https://github.com/bernreccion/release-test/compare/v2.0.2...v2.0.3) (2024-06-08)
 
     ### 🛠️ Patches 🛠️
