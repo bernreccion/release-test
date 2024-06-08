@@ -1,4 +1,4 @@
-const fs = require('fs')
+import fs from 'fs'
 import Handlebars from 'handlebars'
 import { GlobalConfig } from "semantic-release"
 
