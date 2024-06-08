@@ -1,3 +1,9 @@
+## [1.1.0](https://github.com/bernreccion/release-test/compare/v1.0.0...v1.1.0) (2024-06-08)
+
+### Features
+
+* write test example ([24bf7c9](https://github.com/bernreccion/release-test/commit/24bf7c99cf6c62552742213e8d639e93f7f90bc2))
+
 ## 1.0.0 (2024-06-08)
 
 ### ⚠ BREAKING CHANGES
