@@ -74,4 +74,4 @@
 { type: 'revert', section: 'Reverts', hidden: false },
 ```
 - currently, this is the config of what will be shown in the release notes
-- we can control what should be shown in the release notes by making the hidden's value to `true` 
+- we can control what should be shown in the release notes by setting the value of hidden to `true` 
