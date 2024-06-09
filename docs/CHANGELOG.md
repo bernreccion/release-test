@@ -1,3 +1,10 @@
+## [5.1.2](https://github.com/bernreccion/release-test/compare/v5.1.1...v5.1.2) (2024-06-09)
+
+### 🧹 Miscellaneous Chores 🧹
+
+* test update ([ca72221](https://github.com/bernreccion/release-test/commit/ca722215318e89d69c7976051b9e82ad859cf469))
+* chore: test update (ca72221) by Bernard Guiller Reccion
+
 ## [5.1.1](https://github.com/bernreccion/release-test/compare/v5.1.0...v5.1.1) (2024-06-09)
 
 ### ♻️ Code Refactoring ♻️
