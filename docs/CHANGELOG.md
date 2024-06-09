@@ -1,3 +1,10 @@
+## [5.1.8](https://github.com/bernreccion/release-test/compare/v5.1.7...v5.1.8) (2024-06-09)
+
+### 🧹 Miscellaneous Chores 🧹
+
+* update with author ([78b4d14](https://github.com/bernreccion/release-test/commit/78b4d14565e7e5f1f463f4e60618e413815aa561))
+ by Bernard Guiller Reccion
+
 ## [5.1.7](https://github.com/bernreccion/release-test/compare/v5.1.6...v5.1.7) (2024-06-09)
 
 ### 🧹 Miscellaneous Chores 🧹
