@@ -1,3 +1,9 @@
+## [5.1.6](https://github.com/bernreccion/release-test/compare/v5.1.5...v5.1.6) (2024-06-09)
+
+### 🧹 Miscellaneous Chores 🧹
+
+* update ([da4ad4d](https://github.com/bernreccion/release-test/commit/da4ad4d064523090b7c01b984880e412d65c4c87))
+
 ## [5.1.5](https://github.com/bernreccion/release-test/compare/v5.1.4...v5.1.5) (2024-06-09)
 
 ### 🧹 Miscellaneous Chores 🧹
