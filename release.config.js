@@ -50,6 +50,7 @@ const config = {
                         { type: 'style', section: 'Styles', hidden: false },
                         { type: 'revert', section: 'Reverts', hidden: false },
                     ],
+                    userUrlFormat: 'https://github.com/{{user}}'
                 },
                 writerOpts: {
                     groupBy: "type",
