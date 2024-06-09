@@ -55,8 +55,7 @@ const config = {
                     groupBy: "type",
                     commitGroupsSort: "title",
                     commitsSort: ["type", "scope"],
-                    mainTemplate: fs.readFileSync('./mainTemplate.hbs', 'utf-8'),
-                    commitPartial: fs.readFileSync('./commitPartial.hbs', 'utf-8'),
+                    mainTemplate: fs.readFileSync('./mainTemplate.hbs', 'utf-8')
                 }
             }
         ],
