@@ -1,3 +1,10 @@
+## [5.1.10](https://github.com/bernreccion/release-test/compare/v5.1.9...v5.1.10) (2024-06-09)
+
+### ♻️ Code Refactoring ♻️
+
+* with author name ([b6d1d2f](https://github.com/bernreccion/release-test/commit/b6d1d2f12c758aac4b56eb318ba9ee0f1bf463b5))
+Bernard Guiller Reccion
+
 ## [5.1.9](https://github.com/bernreccion/release-test/compare/v5.1.8...v5.1.9) (2024-06-09)
 
 ### 🧹 Miscellaneous Chores 🧹
