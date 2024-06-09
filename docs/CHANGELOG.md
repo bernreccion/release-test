@@ -1,3 +1,8 @@
+## [5.1.12](https://github.com/bernreccion/release-test/compare/v5.1.11...v5.1.12) (2024-06-09)
+
+
+* test ([92a1dfb](https://github.com/bernreccion/release-test/commit/92a1dfb9dc43c60cd729884714784f650eca647a))
+
 ## [5.1.11](https://github.com/bernreccion/release-test/compare/v5.1.10...v5.1.11) (2024-06-09)
 
 ### 🧹 Miscellaneous Chores 🧹
