@@ -46,6 +46,6 @@
 {{/if}}
 
 {{#each commits}}
-* {{message}} ({{shortHash}}) by @{{author.username}}
+{{> commit root=@root}} by {{user}}
 {{/each}}
 {{/each}}
