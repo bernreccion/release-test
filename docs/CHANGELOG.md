@@ -1,3 +1,9 @@
+## [5.1.9](https://github.com/bernreccion/release-test/compare/v5.1.8...v5.1.9) (2024-06-09)
+
+### 🧹 Miscellaneous Chores 🧹
+
+* chore: add commit partial ([002ca1bfaf2eaca2ac53c463882f0fb9e36f2df6](https://github.com/bernreccion/release-test/commit/002ca1bfaf2eaca2ac53c463882f0fb9e36f2df6))
+
 ## [5.1.8](https://github.com/bernreccion/release-test/compare/v5.1.7...v5.1.8) (2024-06-09)
 
 ### 🧹 Miscellaneous Chores 🧹
