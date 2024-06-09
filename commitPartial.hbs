@@ -14,7 +14,7 @@
     {{~@root.repoUrl}}
   {{~/if}}/
   {{~@root.commit}}/{{hash}}))
-{{~else if hash}} {{hash}} {{author.name}} {{~/if}}
+{{~else if hash}} {{hash}} {{~/if}}
 
 {{~!-- commit references --}}
 {{~#if references~}}
@@ -50,4 +50,4 @@
     {{~/if}}
     {{~this.repository}}#{{this.issue}}
   {{~/if}}{{/each}}
-{{~/if}}
+{{~/if}} - {{author.name}}
