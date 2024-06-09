@@ -1,3 +1,17 @@
+## [5.1.1](https://github.com/bernreccion/release-test/compare/v5.1.0...v5.1.1) (2024-06-09)
+
+### ♻️ Code Refactoring ♻️
+
+* update titles ([c89e763](https://github.com/bernreccion/release-test/commit/c89e7633477b24535de846bff59a3dcf393fae09))
+
+### 📚 Documentation 📚
+
+* add readme ([fd4184d](https://github.com/bernreccion/release-test/commit/fd4184dddb6489ae8a6b46a020327fb3add206c1))
+
+### 🧹 Miscellaneous Chores 🧹
+
+* update config ([31150e1](https://github.com/bernreccion/release-test/commit/31150e1bd042232303570616f499c03a4cdeba57))
+
 ## [5.1.0](https://github.com/bernreccion/release-test/compare/v5.0.1...v5.1.0) (2024-06-08)
 
 ### ✨ Features ✨
