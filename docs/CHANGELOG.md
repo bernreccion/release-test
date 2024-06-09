@@ -1,3 +1,9 @@
+## [5.1.11](https://github.com/bernreccion/release-test/compare/v5.1.10...v5.1.11) (2024-06-09)
+
+### 🧹 Miscellaneous Chores 🧹
+
+* test ([eeaeed2](https://github.com/bernreccion/release-test/commit/eeaeed27dd4564cd56ac4cdba25abc4963a72382))
+
 ## [5.1.10](https://github.com/bernreccion/release-test/compare/v5.1.9...v5.1.10) (2024-06-09)
 
 ### ♻️ Code Refactoring ♻️
