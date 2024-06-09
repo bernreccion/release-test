@@ -46,7 +46,6 @@
 {{/if}}
 
 {{#each commits}}
-{{> commit root=@root}}
-* {{#if scope}}**{{scope}}:** {{/if}}{{message}} ({{shortHash}}) by {{author.name}}
+* {{message}} ({{shortHash}}) by {{author.name}}
 {{/each}}
 {{/each}}
