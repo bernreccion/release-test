@@ -14,8 +14,35 @@
 {{#if (eq title "Features")}}
 ### ✨ {{title}} ✨
 {{/if}}
-{{#if (eq title "Patches")}}
+{{#if (eq title "Bug Fixes")}}
+### 🐛 {{title}} 🐛
+{{/if}}
+{{#if (eq title "Miscellaneous Chores")}}
+### 🧹 {{title}} 🧹
+{{/if}}
+{{#if (eq title "Continuous Integration")}}
+### 🔄 {{title}} 🔄
+{{/if}}
+{{#if (eq title "Build System")}}
 ### 🛠️ {{title}} 🛠️
+{{/if}}
+{{#if (eq title "Tests")}}
+### 🧪 {{title}} 🧪
+{{/if}}
+{{#if (eq title "Documentation")}}
+### 📚 {{title}} 📚
+{{/if}}
+{{#if (eq title "Performance Improvements")}}
+### ⚡ {{title}} ⚡
+{{/if}}
+{{#if (eq title "Code Refactoring")}}
+### ♻️ {{title}} ♻️
+{{/if}}
+{{#if (eq title "Styles")}}
+### 💅 {{title}} 💅
+{{/if}}
+{{#if (eq title "Reverts")}}
+### ⏪ {{title}} ⏪
 {{/if}}
 
 {{#each commits}}
